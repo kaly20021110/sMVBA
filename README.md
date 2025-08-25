@@ -191,4 +191,4 @@ $ fab remote
 ```
 
 ## License
-This software is licensed as [Apache 2.0](https://github.com/kaly20021110/sMVBA/LICENSE)
+This software is licensed as [Apache 2.0](https://github.com/kaly20021110/sMVBA/blob/main/LICENSE)
